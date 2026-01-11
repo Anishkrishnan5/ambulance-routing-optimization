@@ -144,15 +144,6 @@ This system does **not** provide medical advice and should **not** be used for r
 
 All conclusions are based on simulated scenarios and modeling assumptions.
 
----
-
-## 👤 Author
-
-**Anish Krishnan**  
-Undergraduate Student, UC Berkeley  
-
----
-
 ## ⭐ Acknowledgments
 
 - OpenStreetMap contributors
