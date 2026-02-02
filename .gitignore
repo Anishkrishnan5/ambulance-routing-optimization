@@ -1,0 +1,5 @@
+# Large raw data files
+Data/Raw/hospital_capacity.csv
+Data/Raw/norcal_openstreet.osm.pbf
+Data/Raw/*.pbf
+Data/Raw/*.csv
